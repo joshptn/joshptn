@@ -67,26 +67,8 @@ Whether it’s architecting in the cloud, streamlining processes, or turning bol
 
 ---
 
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
----
-
 ### 📞 Contact Me
 
-- **Email**: [chaitanyapratapsingh24@gmail.com](mailto:chaitanyapratapsingh24@gmail.com)
-- **LinkedIn**: [Chaitanya Pratap Singh](https://www.linkedin.com/in/chaitanyapratapsingh)
-- **Instagram**: [@chaitanya.2406](https://www.instagram.com/chaitanya__2406/)
+- **Email**: [jashuapatenia15@gmail.com](mailto:jashuapatenia15@gmail.com)
+- **LinkedIn**: [Joshua Patenia](https://www.linkedin.com/in/joshua-patenia-714727346/)
+- **Instagram**: [@joshptn](https://www.instagram.com/joshptn)
