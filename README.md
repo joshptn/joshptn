@@ -83,35 +83,7 @@ Whether it’s architecting in the cloud, streamlining processes, or turning bol
   />
 </picture>
 
-
-#
-
-### 🎥 My YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Bubble Sort Explained in 30 secs #bubblesort #sortingalgorithms #programming #algorithm  #coding](https://www.youtube.com/shorts/PTvoZR-3sng)
-- [Mangarh Mini Vlog #minivlog #bhaktimandir #mangarh_dham #travel](https://www.youtube.com/shorts/k-r-IApIBa8)
-- [100 Days Of Code Day 21/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/shorts/MZpaxltuWc8)
-- [100 Days Of Code Day 20/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/shorts/9wxP-bCHD_Q)
-- [100 Days Of Code Day 19/100 #100daysofcode  #html #css #programming #frontend](https://www.youtube.com/shorts/VZirAFqFciY)
-<!-- YOUTUBE:END -->
-
-▶ [more videos...](https://www.youtube.com/channel/UC_WZTg6vY2YAMnvBPHu2DEQ)
-
-#
-
-### 📝 My Latest Blogs
-
-<!-- BLOG-POST-LIST:START -->
-- [Demystifying Variables: Your Guide to Data Storage in Programming](https://chaitanya-2406.medium.com/demystifying-variables-your-guide-to-data-storage-in-programming-7311a221626?source=rss-df250b1c9497------2)
-- [What is an API?](https://chaitanya-2406.medium.com/what-is-an-api-271dce12b3cb?source=rss-df250b1c9497------2)
-- [Markdown: Simple Introduction](https://chaitanya-2406.medium.com/markdown-simple-introduction-382631e2a348?source=rss-df250b1c9497------2)
-- [Introducing Git &amp; GitHub: A Friendly Guide For Newbies](https://chaitanya-2406.medium.com/introducing-git-github-a-friendly-guide-for-newbies-57103468f4b1?source=rss-df250b1c9497------2)
-<!-- BLOG-POST-LIST:END -->
-
-▶ [more blogs...](https://chaitanya-2406.medium.com/)
-
-#
+---
 
 ### 📞 Contact Me
 
