@@ -1,7 +1,5 @@
 <div align="center">
 
-<img align="center" width="40%" src="https://camo.githubusercontent.com/26c176d1385dd534062f32aa25a00b9c01bf9673923a995d3e386a418c4be019/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313035393538332f73637265656e73686f74732f343137313336372f6d656469612f35633832363461323062323437313135623638653663326634633937643565362e676966" alt="About Me" />
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Pateña;a+developer;that+don't+want+to+code)](https://git.io/typing-svg)
 
 </div>
