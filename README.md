@@ -9,7 +9,7 @@
 ---
 
 <div align="center">
- Aspiring Cloud Developer | Oracle Certified Associate | Junior Year at LVCC
+ Aspiring Cloud Developer | Junior Year at LVCC
 </div>
 
 ---
@@ -24,6 +24,20 @@ I hold an Associate Degree in Computer Technology and am currently pursuing my B
 Whether it’s architecting in the cloud, streamlining processes, or turning bold ideas into reality, I’m here to make it happen.
  
 </p>
+
+---
+### 🗂️ Recent Projects
+- **Personal Cycling Website**:  
+ This is where I share my passion for cycling and the places and famous destination I have been. 
+  - **Repository Link**: _[https://github.com/joshptn/MyPersonalCyclingWebsite-.git](https://github.com/joshptn/MyPersonalCyclingWebsite-.git)_ 
+
+- **Note App**:  
+ A note taking app that helps you capture and prioritize ideas, projects and to-do lists, so nothing falls through the cracks
+  - **Repository Link**: _[https://github.com/joshptn/service-class.git](https://github.com/joshptn/service-class.git)_ 
+
+- **AppDates**:  
+AppDates keeps your projects up-to-date and on schedule with a smart, streamlined Kanban board.
+  - **Repository Link**: _[https://github.com/rshdgvn/app-dates.git](https://github.com/rshdgvn/app-dates.git)_ 
 
 ---
 
@@ -49,6 +63,9 @@ Whether it’s architecting in the cloud, streamlining processes, or turning bol
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
 </div>
 
 <br />
