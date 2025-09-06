@@ -15,11 +15,7 @@
 <p align="center">
   <img align="right" width="40%" src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800966813" alt="About Me" />
  
-I am the kind of programmer who don't code… I architect solutions.
-  <br /><br />
 I hold an Associate Degree in Computer Technology and am currently pursuing my Bachelor’s in Information Systems. My passion lies in building smart systems, sparking innovation, and helping businesses grow with tech-driven solutions. I blend a business-minded approach with a high-value mindset, because technology isn’t just about lines of code, it’s about creating real-world impact.
-  <br /><br />
-Whether it’s architecting in the cloud, streamlining processes, or turning bold ideas into reality, I’m here to make it happen.
  
 </p>
 
