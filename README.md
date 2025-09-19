@@ -1,22 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Pateña;a+developer;that+don't+want+to+code)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Pateña;an+Aspiring+Cloud+Developer;)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<div align="center">
- Aspiring Cloud Developer | Junior Year at LVCC
-</div>
-
----
-
-<p align="center">
-  <img align="right" width="40%" src="https://ik.imagekit.io/chaitanya/Readme/aboutme.png?updatedAt=1695800966813" alt="About Me" />
- 
-I hold an Associate Degree in Computer Technology and am currently pursuing my Bachelor’s in Information Systems. My passion lies in building smart systems, sparking innovation, and helping businesses grow with tech-driven solutions. I blend a business-minded approach with a high-value mindset, because technology isn’t just about lines of code, it’s about creating real-world impact.
- 
+<p align="left">
+“I hold an Associate Degree in Computer Technology and I am currently in my junior year at La Verdad Christian College (LVCC), pursuing a Bachelor’s degree in Information Systems.”
 </p>
 
 ---
@@ -64,15 +55,6 @@ AppDates keeps your projects up-to-date and on schedule with a smart, streamline
 
 <br />
 <br />
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joshptn&show_icons=true&theme=dracula" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshptn&layout=compact&theme=dracula" alt="Top Languages" height="165">
-</p>
 
 ---
 
