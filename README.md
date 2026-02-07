@@ -1,15 +1,8 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Pateña;an+Aspiring+Cloud+Developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Pateña;an+Aspiring+Software+Developer;)](https://git.io/typing-svg)
 
 </div>
-
----
-
-<p align="left">
-“I hold an Associate Degree in Computer Technology and I am currently in my junior year at La Verdad Christian College (LVCC), pursuing a Bachelor’s degree in Information Systems.”
-</p>
-
 ---
 ### 🗂️ Recent Projects
 - **Personal Cycling Website**:  
@@ -26,7 +19,7 @@ AppDates keeps your projects up-to-date and on schedule with a smart, streamline
 
 ---
 
-### 🧰 Languages and Tools
+### 🧰 Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -58,8 +51,8 @@ AppDates keeps your projects up-to-date and on schedule with a smart, streamline
 
 ---
 
-### 📞 Contact Me
+### 📞 Contacts
 
 - **Email**: [jashuapatenia15@gmail.com](mailto:jashuapatenia15@gmail.com)
 - **LinkedIn**: [Joshua Patenia](https://www.linkedin.com/in/joshua-patenia-714727346/)
-- **Instagram**: [@joshptn](https://www.instagram.com/joshptn)
+
