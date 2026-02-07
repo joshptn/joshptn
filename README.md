@@ -3,7 +3,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FADADD&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua+Pateña;an+Aspiring+Software+Developer;)](https://git.io/typing-svg)
 
 </div>
+
 ---
+
 ### 🗂️ Recent Projects
 - **Personal Cycling Website**:  
  This is where I share my passion for cycling and the places and famous destination I have been. 
